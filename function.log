@@ -1,29 +1,28 @@
-2026-08-23 09:46:19,247 - INFO - url: http://rihou.cc:567/gggg.nzk 获取成功，判断为txt格式
-2026-08-23 09:46:19,253 - INFO - url: http://rihou.cc:567/gggg.nzk 爬取成功✅，包含频道分类: 猫TV影视, 欣赏港乐, 欣赏Pdtv, 蒙超23赛, 女篮23赛, 闽超23赛, 中超23赛, 粤超23赛, 鲁超23赛, 英超23赛, 法甲23赛, 西甲23赛, 意甲24赛, 西甲24赛, 女篮24赛, 赛事预告, 赛事精锦, 央卫咪咕, 特区双音, 特区频晴, 欣赏频道, 网页音乐, 欣赏音乐, 特闽FYtv, 闽南4Gtv, 闽南回放, 抖音网页, 荔枝网页, 虎牙频道, 爱奇频道, 特区地波, 广州电信, 童年频道, 亮剑全集, 雪豹全集, 凡人修仙, 华山论剑, Q-三国粤, 大时代粤, 流星花园, 还珠格格, 甄嬛传国, 大地恩情, 粤经典剧, 射雕英雄, 神雕侠侣, 视觉效果
-2026-08-23 09:46:20,031 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/main/output/user_result.txt 获取成功，判断为txt格式
-2026-08-23 09:46:20,599 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/IPTV/main/live_ipv4.txt 获取成功，判断为txt格式
-2026-08-23 09:46:21,231 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps://jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php 获取成功，判断为txt格式
-2026-08-23 09:46:22,767 - INFO - url: https://live.zbds.top/tv/iptv6.txt 获取成功，判断为txt格式
-2026-08-23 09:46:22,767 - INFO - url: https://live.zbds.top/tv/iptv6.txt 爬取成功✅，包含频道分类: 更新时间
-2026-08-23 09:46:23,221 - INFO - url: https://live.zbds.top/tv/iptv4.txt 获取成功，判断为txt格式
-2026-08-23 09:46:23,224 - INFO - url: https://live.zbds.top/tv/iptv4.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 体育频道, 解说频道, 音乐频道, 春晚频道, 更新时间
-2026-08-23 09:46:24,305 - INFO - url: http://live.nctv.top/xj.txt 获取成功，判断为txt格式
-2026-08-23 09:46:24,309 - INFO - url: http://live.nctv.top/xj.txt 爬取成功✅，包含频道分类: 📡  江西频道, 🇨🇳虎牙直播, 🇨🇳斗鱼直播, 🇨🇳电视剧轮播, 🇨🇳 YY频道, 🇨🇳埋堆堆（港剧）, 🇨🇳 NewTV, 📡  香港频道, 📡  新闻频道p2p
-2026-08-23 09:46:24,771 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt 获取成功，判断为txt格式
-2026-08-23 09:46:25,344 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u 获取成功，判断为txt格式
-2026-08-23 09:46:27,466 - ERROR - url: https://gitee.com/xxy002/zhiboyuan/raw/master/dsy 爬取失败❌, Error: 404 Client Error: Not Found for url: https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
-2026-08-23 09:46:28,081 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u 获取成功，判断为txt格式
-2026-08-23 09:46:28,413 - ERROR - url: https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u 爬取失败❌, Error: 404 Client Error: Not Found for url: https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u
-2026-08-23 09:46:28,964 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/IPTV.m3u 获取成功，判断为txt格式
-2026-08-23 09:46:29,445 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u 获取成功，判断为txt格式
-2026-08-23 09:46:29,962 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u 获取成功，判断为txt格式
-2026-08-23 09:46:30,463 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u 获取成功，判断为txt格式
-2026-08-23 09:46:31,038 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u 获取成功，判断为txt格式
-2026-08-23 09:46:31,753 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u 获取成功，判断为txt格式
-2026-08-23 09:46:32,226 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u 获取成功，判断为txt格式
-2026-08-23 09:46:32,710 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u 获取成功，判断为txt格式
-2026-08-23 09:46:33,198 - INFO - url: http://xhztv.top/new.txt 获取成功，判断为txt格式
-2026-08-23 09:46:33,202 - INFO - url: http://xhztv.top/new.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 体育频道, 解说频道, 音乐频道, 春晚频道, 直播中国, 更新时间
-2026-08-23 09:46:33,687 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt 获取成功，判断为txt格式
-2026-08-23 09:46:34,670 - ERROR - url: http://home.jundie.top:81/Cat/tv/live.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: http://home.jundie.top:81/Cat/tv/live.txt
-2026-08-23 09:46:35,291 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt 获取成功，判断为txt格式
+2026-08-23 16:36:51,875 - ERROR - url: http://rihou.cc:567/gggg.nzk 爬取失败❌, Error: HTTPSConnectionPool(host='ykj-eos-dg5-01.eos-dongguan-6.cmecloud.cn', port=443): Max retries exceeded with url: /3a554f415d044f20b087aa8b6c8869f6086?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27gggg.nzk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260823T083650Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Credential=9T1UKBIX6OJSR5XN2F2T%2F20260823%2Fdefault%2Fs3%2Faws4_request&t=2&u=1039811582362535272&ot=personal&oi=1039811582362535272&f=Freu8jeWg_07tkY7_UglKzLiy7Q_voPHO&ext=eyJ1dCI6MSwidW0iOjAsImN0Ijo5LCJjaCI6IjEwMDAwMDM0In0%3D&X-Amz-Signature=a4af57922b5b4bab821047d445efa36982704fc5d20b6631443d809149cc78d6 (Caused by NewConnectionError("HTTPSConnection(host='ykj-eos-dg5-01.eos-dongguan-6.cmecloud.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+2026-08-23 16:36:52,836 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/main/output/user_result.txt 获取成功，判断为txt格式
+2026-08-23 16:36:53,529 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/IPTV/main/live_ipv4.txt 获取成功，判断为txt格式
+2026-08-23 16:36:54,151 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps://jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php 获取成功，判断为txt格式
+2026-08-23 16:36:55,361 - INFO - url: https://live.zbds.top/tv/iptv6.txt 获取成功，判断为txt格式
+2026-08-23 16:36:55,361 - INFO - url: https://live.zbds.top/tv/iptv6.txt 爬取成功✅，包含频道分类: 更新时间
+2026-08-23 16:36:55,650 - INFO - url: https://live.zbds.top/tv/iptv4.txt 获取成功，判断为txt格式
+2026-08-23 16:36:55,652 - INFO - url: https://live.zbds.top/tv/iptv4.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 体育频道, 解说频道, 音乐频道, 春晚频道, 更新时间
+2026-08-23 16:36:56,467 - INFO - url: http://live.nctv.top/xj.txt 获取成功，判断为txt格式
+2026-08-23 16:36:56,470 - INFO - url: http://live.nctv.top/xj.txt 爬取成功✅，包含频道分类: 📡  江西频道, 🇨🇳虎牙直播, 🇨🇳斗鱼直播, 🇨🇳电视剧轮播, 🇨🇳 YY频道, 🇨🇳埋堆堆（港剧）, 🇨🇳 NewTV, 📡  香港频道, 📡  新闻频道p2p
+2026-08-23 16:36:57,039 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt 获取成功，判断为txt格式
+2026-08-23 16:36:59,176 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u 获取成功，判断为txt格式
+2026-08-23 16:37:00,807 - ERROR - url: https://gitee.com/xxy002/zhiboyuan/raw/master/dsy 爬取失败❌, Error: 404 Client Error: Not Found for url: https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
+2026-08-23 16:37:01,572 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u 获取成功，判断为txt格式
+2026-08-23 16:37:02,188 - ERROR - url: https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u 爬取失败❌, Error: 404 Client Error: Not Found for url: https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u
+2026-08-23 16:37:02,753 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/IPTV.m3u 获取成功，判断为txt格式
+2026-08-23 16:37:03,323 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u 获取成功，判断为txt格式
+2026-08-23 16:37:03,908 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u 获取成功，判断为txt格式
+2026-08-23 16:37:04,477 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u 获取成功，判断为txt格式
+2026-08-23 16:37:05,035 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u 获取成功，判断为txt格式
+2026-08-23 16:37:05,660 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u 获取成功，判断为txt格式
+2026-08-23 16:37:06,251 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u 获取成功，判断为txt格式
+2026-08-23 16:37:06,852 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u 获取成功，判断为txt格式
+2026-08-23 16:37:06,963 - INFO - url: http://xhztv.top/new.txt 获取成功，判断为txt格式
+2026-08-23 16:37:06,967 - INFO - url: http://xhztv.top/new.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 体育频道, 解说频道, 音乐频道, 春晚频道, 直播中国, 更新时间
+2026-08-23 16:37:07,739 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt 获取成功，判断为txt格式
+2026-08-23 16:37:08,432 - ERROR - url: http://home.jundie.top:81/Cat/tv/live.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: http://home.jundie.top:81/Cat/tv/live.txt
+2026-08-23 16:37:09,009 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt 获取成功，判断为txt格式
